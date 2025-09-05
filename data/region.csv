@@ -1,0 +1,119 @@
+"region_id","name","description","lang","sources","export_url","export_apikey","region_rules","created","updated","tags"
+"AGO","Angola","Language: Portuguese","pt","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"ALB","Albania","Language: Albanian","sq","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"ARG","Argentina","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"ARM","Armenia","Language: Armenian","hy","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"ASM","American Samoa ","Language: English","en","pac.DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"ATG","Antigua and Barbuda","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"BDI","Burundi","Language: French","fr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"BFA","Burkina Faso","Language: French","fr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"BLR","Belarus","Language: Russian","ru",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BLZ","Belize","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"BOL","Bolivia","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"BRB","Barbados","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"BTN","Bhutan","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"BWA","Botswana","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"CHL","Chile","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"CMR","Cameroon","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"COK","Cook Islands ","Language: Maori","mi","pac.DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"COL","Colombia","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"COM","Comoros","Language: Arabic","ar","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"CPV","Cabo Verde","Language: Portuguese","pt","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"CRI","Costa Rica","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"DJI","Djibouti","Language: French","fr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"DMA","Dominica","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"DOM","Dominican Republic","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"ECU","Ecuador","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"EGY","Egypt","Language: Arabic","ar","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"ESP","Spain","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"ETH","Ethiopia","Language: Amharic","am","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"FJI","Fiji ","Language: English","en","pac.DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"FSM","Federated States of Micronesia ","Language: English","en","pac.DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"GHA","Ghana","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"GIN","Guinea","Language: French","fr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"GMB","Gambia","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"GNB","Guinea Bissau","Language: Portuguese","pt","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"GNQ","Equatorial Guinea","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"GRD","Grenada","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"GTM","Guatemala","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"GUM","Guam ","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"GUY","Guyana","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"HND","Honduras","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"IDN","Indonesia","Language: Indonesian","id","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"IND","India","Language: english","en","DI.net",NULL,NULL,NULL,NULL,NULL,"lev1: {005:Uttarakhand, 019:Orissa, 033:Tamil Nadu}"
+"IRN","I.R. Iran","Language: Persian","fa","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"IRQ","Iraq","Language: Arabic","ar","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"JAM","Jamaica","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"JOR","Jordan","Language: Arabic","ar","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"KAZ","Kazakhstan","Language: Kazakh","kk","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"KEN","Kenya","Language: Swahili (macrolanguage)","sw","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"KGZ","Kyrgyzstan","Language: Kirghiz; Kyrgyz","ky","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"KHM","Cambodia","Language: Central Khmer","km","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"KIR","Kiribati ","Language: English","en","pac.DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"KNA","Saint Kitts and Nevis","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"LAO","Lao People Dem Rep","Language: Lao","lo","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"LBN","Lebanon","Language: Arabic","ar","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"LBR","Liberia","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"LCA","Saint Lucia","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"LKA","Sri Lanka","Language: Sinhala; Sinhalese","si","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MAR","Morocco","Language: Arabic","ar","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MDG","Madagascar","Language: Malagasy","mg","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MDV","Maldives","Language: Divehi; Dhivehi; Maldivian","dv","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MEX","Mexico","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MHL","Marshall Islands ","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MLI","Mali","Language: French","fr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MMR","Myanmar","Language: Burmese","my","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MNE","Montenegro","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MNG","Mongolia","Language: Mongolian","mn","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MNP","Northern Mariana Islands ","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MOZ","Moçambique","Language: Portuguese","pt","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MUS","Mauritius","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"MWI","Malawi","Language: English","en","DI.net","http://localhost:3000/api/","18a1cd474a3ed93bbcd177f8be1259cf18c0b007645cc79d8a79dc43f33e2533",NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"NAM","Namibia","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"NCL","New Caledonia ","Language: French","fr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"NER","Niger","Language: French","fr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"NGA","Nigeria","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"NIC","Nicaragua","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"NIU","Niue ","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"NPL","Nepal","Language: Nepali (macrolanguage)","ne","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"NRU","Nauru ","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"PAK","Pakistan","Language: Urdu","ur","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"PAN","Panama","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"PER","Peru","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"PLW","Palau ","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"PNG","Papua New Guinea ","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"PRT","Portugal","Language: Portuguese","pt","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"PRY","Paraguay","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"PSE","Palestine","Language: Arabic","ar","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"PYF","French Polynesia ","Language: French","fr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"RWA","Rwanda","Language: Kinyarwanda","rw","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"SDN","Sudan","Language: Arabic","ar","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"SEN","Senegal","Language: French","fr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"SLB","Solomon Islands","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"SLE","Sierra Leone","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"SLV","El Salvador","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"SOM","Somalia","Language: Somali","so","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"SRB","Serbia","Language: Serbian","sr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"SWZ","Eswatini","Language: Swati","ss","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"SYC","Seychelles","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"SYR","Syria","Language: Arabic","ar","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"TGO","Togo","Language: French","fr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"TKL","Tokelau ","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"TLS","Timor Leste","Language: Portuguese","pt","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"TON","Tonga ","Language: Tonga (Tonga Islands)","to","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"TTO","Trinidad and Tobago","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"TUN","Tunisia","Language: Arabic","ar","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"TUR","Türkiye","Language: Turkish","tr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"TUV","Tuvalu ","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"TZA","United Republic of Tanzania","Language: Swahili (macrolanguage)","sw","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"UGA","Uganda","Language: Swahili (macrolanguage)","sw","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"URY","Uruguay","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"VCT","Saint Vincent and the Grenadines","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"VEN","Venezuela","Language: Spanish; Castilian","es","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"VNM","Vietnam","Language: Vietnamese","vi","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"VUT","Vanuatu ","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"WLF","Wallis and Futuna ","Language: French","fr","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"WSM","Samoa ","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"XKX","Kosovo","Language: Albanian","sq","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"YEM","Yemen","Language: Arabic","ar","DI.net","https://dts-testing.undrr.org/api","a90857d17994c55c84ae739e2ea7c5d61453d69f266750ae70fe57525e388549",NULL,"2025-04-10 18:26:32.884884",NULL,NULL
+"ZMB","Zambia","Language: English","en","DI.net",NULL,NULL,NULL,"2025-04-10 18:26:32.884884",NULL,NULL

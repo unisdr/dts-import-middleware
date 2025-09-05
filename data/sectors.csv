@@ -1,0 +1,22 @@
+"id","name","description","parent_id","codeql"
+"dts1","Productive",NULL,NULL,NULL
+"dts11","Agriculture","It relates to damaged to the Agriculture and Fishing sector: crops, granaries, pastoral zones.  Agriculture/Food (D-8) ","dts1","=eff_withagricultural_sec"
+"dts12","Industry","It relates to damages to the Industrial sector: all types and sizes of industry, including agricultural and fishing plants.  Industrial/Services (D-8) ","dts1","=eff_withindustrial_sec"
+"dts2","Social",NULL,NULL,NULL
+"dts21","Health","It relates to damages to the Health sector: everything related to the health sector, including communication networks, emergency networks (ambulances), casualty centres, etc.  Health (D-6) ","dts2","=eff_withhealth_sec"
+"dts22","Education","It relates to damages to the Education sector: everything relating to this sector – pre-schools, kindergartens, schools, colleges, universities, training centres, libraries, cultural centres, etc.  Education (D-7) ","dts2","=eff_witheducation_sec"
+"dts23","Housing",NULL,"dts2","=eff_withdstdwelling||=eff_withdmgdwelling"
+"dts24","Culture",NULL,"dts2",NULL
+"dts3","Infrastructures",NULL,NULL,NULL
+"dts31","Transportation","It relates to the effects of the disaster on the transport sector: road networks (train or rail), transport stations, airports, river and sea bridges, sea walls, etc, that have been affected or destroyed.  Transportation (D-8) ","dts3","=eff_transport_sec"
+"dts32","Energy and Electricity","It relates to damages to the Energy sector: dams, substations, transmission lines, generators, energy processing plants and combustible stores, pipelines, gas lines, nuclear plants.  Power and Energy (D-8) ","dts3","=eff_withpowersupply_sec"
+"dts33","Information and Communication","It relates to damages to the communication sector: plants and telephone networks, radio and television stations, post offices and public information offices, internet services, radio telephones and mobile phones.  Communications (D-8) ","dts3","=eff_withcomm_sec"
+"dts34","Water","It relates to damages to the aqueduct sector: water outlets, water treatment plants, aqueducts and canals which carry drinking water, storage tanks.  Water supply (D-8) ","dts3","=eff_withwatersupply_sec"
+"dts35","Sanitation ","It relates to damages to the sewage sector: sewage systems and treatment plants.","dts3",NULL
+"dts3501","Large scale sanitation","DTS Sector","dts35",NULL
+"dts3501001","Urban sewage system","Sewerage (D-8) ","dts3501","=eff_withsewerage_sec"
+"dts3503","Urban solid waste","Solid Waste Service (D-8)","dts35","=ext_solid_waste_service"
+"dts4","Cross-cutting",NULL,NULL,NULL
+"dts43","Governance","Public Administration Service (D-8) ","dts4","=ext_public_admin_service"
+"dts45","Disaster Risk Management","It relates to damages to the emergency response sector, specifically to the aid organisms’ installations: Fire fighters and other aid organisms and to entities of public order. Relief (D-8) ","dts4","=eff_withrelief_sec"
+"unknown","Unkwnown Sector","Not classified yet in a specific sector",NULL,NULL

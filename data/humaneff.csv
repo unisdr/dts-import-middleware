@@ -1,0 +1,54 @@
+"id","description","type","codeqt","codeql"
+"a2a_adults","Deaths Adult (15-64)","deaths","=ext_deaths_adults",NULL
+"a2a_children","Deaths Children (0-14)","deaths","=ext_deaths_children",NULL
+"a2a_disabled","Deaths With disabilities","deaths","=ext_deaths_disabled",NULL
+"a2a_elder","Deaths  Elder (>65+)","deaths","=ext_deaths_elder",NULL
+"a2a_female","Deaths female (a2a)","deaths","=ext_deaths_female",NULL
+"a2a_male","Deaths male  (a2a)","deaths","=ext_deaths_male",NULL
+"a2a_poor","Deaths  Below Poverty Line","deaths","=ext_deaths_poor",NULL
+"a2a_tot","The number of persons whose deaths were directly caused. When final official data is available, this figure should be included with corresponding observations, for example, when there are differences between officially accepted figures and those of other sources. ","deaths","=eff_deaths","=eff_withdeaths"
+"a3a_adults","Missing adults  (a3a)","missing","=ext_missing_adults",NULL
+"a3a_children","Missing children  (a3a)","missing","=ext_missing_children",NULL
+"a3a_disabled","Missing disabled  (a3a)","missing","=ext_missing_disabled",NULL
+"a3a_elder","Missing elder  (a3a)","missing","=ext_missing_elder",NULL
+"a3a_female","Missing female  (a3a)","missing","=ext_missing_female",NULL
+"a3a_male","Missing male  (a3a)","missing","=ext_missing_male",NULL
+"a3a_poor","Missing poor  (a3a)","missing","=ext_missing_poor",NULL
+"a3a_tot","The number of persons whose whereabouts since the disaster is unknown. It includes people who are presumed dead, although there is no physical evidence. The data on number of deaths and number of missing are mutually exclusive and should not be mixed. ","missing","=eff_missing","=eff_withmissing"
+"b2_adults","Injured adults (b2)","injured","=ext_injured_adults",NULL
+"b2_children","Injured children (b2)","injured","=ext_injured_children",NULL
+"b2_disabled","Injured disabled (b2)","injured","=ext_injured_disabled",NULL
+"b2_elder","Injured elder (b2)","injured","=ext_injured_elder",NULL
+"b2_female","Injured female (b2)","injured","=ext_injured_female",NULL
+"b2_male","Injured male (b2)","injured","=ext_injured_male",NULL
+"b2_poor","Injured poor (b2)","injured","=ext_injured_poor",NULL
+"b2_tot","Injured, sick: The number of persons whose health or physical integrity is affected as a direct result of the disaster. This figure does not include victims who die. Those who suffer injuries and or illness, if the event is related to a plague or epidemic, should be included here.
+","injured","=eff_injured","=eff_withinjured"
+"b3_adults","Living damaged dwellings adults (b3)","indirectaffected","=ext_living_dmgd_dwellings_adults",NULL
+"b3_children","Living damaged dwellings children (b3)","indirectaffected","=ext_living_dmgd_dwellings_children",NULL
+"b3_disabled","Living damaged dwellings disabled (b3)","indirectaffected","=ext_living_dmgd_dwellings_disabled",NULL
+"b3_elder","Living damaged dwellings elder (b3)","indirectaffected","=ext_living_dmgd_dwellings_elder",NULL
+"b3_female","Living damaged dwellings female (b3)","indirectaffected","=ext_living_dmgd_dwellings_female",NULL
+"b3_male","Living damaged dwellings male (b3)","indirectaffected","=ext_living_dmgd_dwellings_male",NULL
+"b3_poor","Living damaged dwellings poor (b3)","indirectaffected","=ext_living_dmgd_dwellings_poor",NULL
+"b3_tot","Living damaged dwellings (b3)","indirectaffected","=ext_living_dmgd_dwellings",NULL
+"b4_adults","Living destroyed dwellings adults (b4)","directaffected","=ext_living_dstr_dwellings_adults",NULL
+"b4_children","Living destroyed dwellings children (b4)","directaffected","=ext_living_dstr_dwellings_children",NULL
+"b4_disabled","Living destroyed dwellings disabled (b4)","directaffected","=ext_living_dstr_dwellings_disabled",NULL
+"b4_elder","Living destroyed dwellings elder (b4)","directaffected","=ext_living_dstr_dwellings_elder",NULL
+"b4_female","Living destroyed dwellings female (b4)","directaffected","=ext_living_dstr_dwellings_female",NULL
+"b4_male","Living destroyed dwellings male (b4)","directaffected","=ext_living_dstr_dwellings_male",NULL
+"b4_poor","Living destroyed dwellings poor (b4)","directaffected","=ext_living_dstr_dwellings_poor",NULL
+"b4_tot","Living destroyed dwellings (b4)","indirectaffected","=ext_living_dstr_dwellings",NULL
+"b5_adults","Livelihoods adults (b5)","directaffected","=ext_livelihoods_adults",NULL
+"b5_children","Livelihoods children (b5)","directaffected","=ext_livelihoods_children",NULL
+"b5_disabled","Livelihoods disabled (b5)","directaffected","=ext_livelihoods_disabled",NULL
+"b5_elder","Livelihoods elder (b5)","directaffected","=ext_livelihoods_elder",NULL
+"b5_female","Livelihoods female (b5)","directaffected","=ext_livelihoods_female",NULL
+"b5_male","Livelihoods male (b5)","directaffected","=ext_livelihoods_male",NULL
+"b5_poor","Livelihoods poor (b5)","directaffected","=ext_livelihoods_poor",NULL
+"b5_tot","Livelihood affected (b5)","directaffected","=ext_livelihood_afctd",NULL
+"evacuated","The number of persons temporarily evacuated from their homes, work places, schools, hospitals, etc. If the information refers to families, calculate the number of people according to available indicators. ","displaced","=eff_evacuated","=eff_withevacuated"
+"indaffected","The number of persons who suffer indirect or secondary effects related to a disaster. This refers to the number of people, distinct from victims, who suffer the impact of secondary effects of disasters for such reasons as deficiencies in public services, commerce, work, or because of isolation. If the information refers to families, calculate the number of people according to available indicators. ","indirectaffected","=eff_indirectaffected","=eff_withindirecaffected"
+"relocated","The number of persons who have been moved permanently from their homes to new sites. If the information refers to families, calculate the number of people according to available indicators. (relocated)","displaced","=eff_relocated","=eff_withrelocated"
+"victims","The number of persons whose goods and/or individual or collective services have suffered serious damage, directly associated with the event. For example, partial or total destruction of their homes and goods; loss of crops and/or crops stored in warehouses, etc. If the information refers to families, calculate the number of people according to available indicators. (victims)","directaffected","=eff_directaffected","=eff_withdirectaffected"

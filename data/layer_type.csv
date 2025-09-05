@@ -1,0 +1,6 @@
+"id","laytype_name","laytype_desc","url"
+"admin","Admin","Administrative divisions","https://www.gadm.org"
+"buildings","Buildings","OSM Buildings","https://www.openstreetmap.org/"
+"bussiness","Bussiness","OSM Bussiness","https://www.openstreetmap.org/"
+"places","Places","OSM Places ","https://www.openstreetmap.org/"
+"roads","Roads","OSM Roads","https://www.openstreetmap.org/"

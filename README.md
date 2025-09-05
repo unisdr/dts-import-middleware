@@ -1,6 +1,6 @@
 # `DIX - DesInventar eXchange`
 
-This middleware operate as eXchange tool to transport data from DesInventar to DTS using an ETL process.
+This middleware operate as eXchange tool to transport data from DesInventar to DTS using an ETL process. Code and structure based on project https://github.com/pabeli/python-etl
 
 # `ETL` Concept
 **Extract**, **Transform** and **Load** it's the process that allows to move data from multiple sources, clean them and load them into a SQL database, that could be used into a Data warehouse.

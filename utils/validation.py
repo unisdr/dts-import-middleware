@@ -30,7 +30,7 @@ def transform_geo(dix, geo):
                     file = val['filename'].split("/")[-1]
                     shp.append({"level": index, "file": file, 'colname': val['col_name'], 'colcode': val['col_code']})
         dix.downloadDIMaps(shp)
-        dix.downloadGADMaps()
+        #dix.downloadGADMaps()
 
 ## Get the list of fields and Insert/update DIX Records:: EFF
 def transform_eff(dix, eff):
@@ -38,7 +38,6 @@ def transform_eff(dix, eff):
     if eff.isnull().values.any():
         print('Effects Null values!')
     else:
-        #dix.setEffects(eff)
         # get the values from HUMANEFF, SECTORS, ASSETS
         for index, val in eff.items():
             asyncio.run(dix.setEffects(index, val))
